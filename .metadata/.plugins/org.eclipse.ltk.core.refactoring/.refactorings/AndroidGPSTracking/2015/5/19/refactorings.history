@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;GPSTracker.java&apos; to &apos;Practica5/src/com.example.practica5&apos;&#x0D;&#x0A;- Original project: &apos;AndroidGPSTracking&apos;&#x0D;&#x0A;- Destination element: &apos;Practica5/src/com.example.practica5&apos;&#x0D;&#x0A;- Original element: &apos;com.example.androidgpstracking.GPSTracker.java&apos;" description="Copy compilation unit" destination="=Practica5/src&lt;com.example.practica5" element1="/src&lt;com.example.androidgpstracking{GPSTracker.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1430851303932" units="1" version="1.0"/>
+</session>
